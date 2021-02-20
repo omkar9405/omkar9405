@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![ProfileBanner](https://avatars.githubusercontent.com/u/46813756?s=460&u=073759a73f86ce72684fe692527510f95a65a73f&v=4)](https://Dnyaneshwarsakhare.github.io)
+<!--[![ProfileBanner](https://avatars.githubusercontent.com/u/46813756?s=460&u=073759a73f86ce72684fe692527510f95a65a73f&v=4)](https://Dnyaneshwarsakhare.github.io)-->
 
 ### About me🧑:
 I am Computer Science Engineering student.<br/>
