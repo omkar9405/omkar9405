@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Visitor Count](https://profile-counter.glitch.me/omkar9405/count.svg)
 <!--
 **omkar9405/omkar9405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
