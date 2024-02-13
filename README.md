@@ -3,12 +3,11 @@
 
 
 ### About me🧑:
-I am Computer Science Engineering student.<br/>
-I am interested in learning DS, Front end and backend web technolgies and would 💖 to grow my knowledge in these Technologies.
+👋 Hello there! I'm Omkar, a passionate Full Stack Engineer with a knack for building robust and scalable web applications. With a background in both front-end and back-end development, I thrive in dynamic environments where I can utilize my skills to craft innovative solutions.
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Mern Stack Web Development project.
+- 🔭 I’m currently working on Mean Stack Web Development project.
 - 🌱 I’m currently learning Backend Development.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend and Backend.
@@ -68,10 +67,6 @@ Languages and Tools🛠:
   <img align="left" alt="Omkar Powar Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<!--<a href="https://twitter.com/DnyaneshwarS22">
-  <img align="left" alt="Dnyaneshwar sakhare's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>-->
-
 <a href="https://linkedin.com/in/omkar-powar-9405">
   <img align="left" alt="Omkar Powar Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
@@ -95,7 +90,15 @@ Languages and Tools🛠:
 <br/>
 <br/>
 <br/>
+🔧 Throughout my career, I've had the privilege of working on diverse projects, from e-commerce platforms to enterprise-level applications. My approach is always user-centric, focusing on creating intuitive interfaces and seamless user experiences.
 
+🌱 I'm a firm believer in continuous learning and staying updated with the latest industry trends. Whether it's experimenting with new frameworks or diving into emerging technologies, I'm always eager to expand my skill set.
+
+🤝 Collaboration is key to my workflow. I thrive in team environments where ideas are shared, challenges are tackled together, and collective growth is encouraged. I'm comfortable communicating with cross-functional teams and stakeholders to ensure alignment and project success.
+
+💡 Beyond coding, I'm passionate about mentorship and knowledge sharing. I actively contribute to the developer community through blogging, open-source projects, and participating in tech meetups and conferences.
+
+🌟 Let's connect and collaborate on exciting projects! Whether you're looking to build a new application from scratch or enhance an existing one, I'm here to bring your vision to life with clean, efficient, and scalable code.
 ### My Projects ✨:
   
 <a href="https://github.com/omkar9405/OMKAR_RESUME">
@@ -106,11 +109,6 @@ Languages and Tools🛠:
 <a href="https://github.com/omkar9405/admin-panel">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omkar9405&repo=admin-panel&theme=tokyonight" />
 </a>
-
-
-<!--<a href="https://github.com/Dnyaneshwarsakhare/E-Waste-management-webapp">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dnyaneshwarsakhare&repo=E-Waste-management-webapp&theme=tokyonight" />
-</a>-->
 
 ### My WakaTime Stats 📊:
 
