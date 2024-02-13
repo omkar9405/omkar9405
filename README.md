@@ -47,8 +47,15 @@ Languages and Tools🛠:
 
 <details>
   
-<br/>
+🔧 Throughout my career, I've had the privilege of working on diverse projects, from e-commerce platforms to enterprise-level applications. My approach is always user-centric, focusing on creating intuitive interfaces and seamless user experiences.
 
+🌱 I'm a firm believer in continuous learning and staying updated with the latest industry trends. Whether it's experimenting with new frameworks or diving into emerging technologies, I'm always eager to expand my skill set.
+
+🤝 Collaboration is key to my workflow. I thrive in team environments where ideas are shared, challenges are tackled together, and collective growth is encouraged. I'm comfortable communicating with cross-functional teams and stakeholders to ensure alignment and project success.
+
+💡 Beyond coding, I'm passionate about mentorship and knowledge sharing. I actively contribute to the developer community through blogging, open-source projects, and participating in tech meetups and conferences.
+
+🌟 Let's connect and collaborate on exciting projects! Whether you're looking to build a new application from scratch or enhance an existing one, I'm here to bring your vision to life with clean, efficient, and scalable code.
 
 </details>
 
@@ -82,7 +89,7 @@ Languages and Tools🛠:
 <a href="https://github.com/omkar9405">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar9405&theme=tokyonight" />
   </a>
-
+<br/>
 <a href="https://github.com/omkar9405">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omkar9405&show_icons=true&theme=tokyonight&line_height=27" alt="Omkar's github stats"/>
 </a>
@@ -90,15 +97,8 @@ Languages and Tools🛠:
 <br/>
 <br/>
 <br/>
-🔧 Throughout my career, I've had the privilege of working on diverse projects, from e-commerce platforms to enterprise-level applications. My approach is always user-centric, focusing on creating intuitive interfaces and seamless user experiences.
+<br/>
 
-🌱 I'm a firm believer in continuous learning and staying updated with the latest industry trends. Whether it's experimenting with new frameworks or diving into emerging technologies, I'm always eager to expand my skill set.
-
-🤝 Collaboration is key to my workflow. I thrive in team environments where ideas are shared, challenges are tackled together, and collective growth is encouraged. I'm comfortable communicating with cross-functional teams and stakeholders to ensure alignment and project success.
-
-💡 Beyond coding, I'm passionate about mentorship and knowledge sharing. I actively contribute to the developer community through blogging, open-source projects, and participating in tech meetups and conferences.
-
-🌟 Let's connect and collaborate on exciting projects! Whether you're looking to build a new application from scratch or enhance an existing one, I'm here to bring your vision to life with clean, efficient, and scalable code.
 ### My Projects ✨:
   
 <a href="https://github.com/omkar9405/OMKAR_RESUME">
